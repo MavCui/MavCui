@@ -10,22 +10,22 @@
 ## Experience
 
 **ByteDance · AI & Cloud Solution Architect** · Sep 2026–Present  
-AI and cloud architecture for growth-stage AI companies across LLM, video, and world-model workloads.
+AI and cloud solution architecture for growth-stage AI companies, connecting LLM, video, and world-model workloads with infrastructure and delivery requirements.
 
 **Baidu · AI Agent Architecture Engineer** · Apr–Sep 2026  
-Agent architecture for Medo.dev, spanning multi-agent orchestration, LLM routing, and Skills engineering.
+Agent systems and overseas solution delivery for Medo.dev, spanning multi-model routing, tool orchestration, and multi-agent workflows.
 
 **Xiaomi · AI Innovation Product Manager Intern** · Dec 2025–Mar 2026  
-AI product research across GUI interaction, proactive intelligence, and spatial interaction.
+GUI agents, long-term memory, and proactive intelligence across device ecosystems, with scenario prototyping and multimodal evaluation.
 
 **TCL · AI Product Manager Intern, CTO Assistant** · Aug–Nov 2025  
-LLM evaluation frameworks and multimodal interaction design for the Ai Me robot.
+LLM personality evaluation and interaction design for Ai Me, covering proactive behavior, memory quality, safety guardrails, and regression testing.
 
 **China Merchants Bank · FinTech Product Manager Intern** · Dec 2024–Jan 2025  
 Research on AI in finance, blockchain payments, and digital banking.
 
 **SAS Institute · AI Credit & Finance Product Lead (Capstone)** · Aug–Nov 2024  
-Led a credit risk platform project connecting machine learning, compliance requirements, and decision workflows.
+Credit risk platform design linking feature engineering, model inference, configurable decision rules, explainability, and audit trails.
 
 **China Mobile · AIGC Product Manager Intern & System Analyst** · Jun–Sep 2024  
 Image generation workflows with Stable Diffusion, custom LoRA training, and web/mobile interfaces.
