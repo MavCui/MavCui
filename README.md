@@ -165,7 +165,7 @@ Enterprise application improvements on Azure and production web risk assessment.
       <strong>Microsoft AI Expert</strong>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" height="44" /><br />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" width="110" /><br />
       <strong>Oracle OCP MySQL 8.0</strong>
     </td>
   </tr>
@@ -179,7 +179,7 @@ Enterprise application improvements on Azure and production web risk assessment.
       <strong>Google AI Leadership Certificate</strong>
     </td>
     <td align="center">
-      <img src="https://mhfainternational.org/wp-content/plugins/mhfai-performance/assets/MHFA-International-Horizontal-Logo_sm.webp" alt="Mental Health First Aid International" width="160" /><br />
+      <img src="https://mhfainternational.org/wp-content/plugins/mhfai-performance/assets/MHFA-International-Horizontal-Logo_sm.webp" alt="Mental Health First Aid International" height="44" /><br />
       <strong>MHFA International</strong>
     </td>
   </tr>
