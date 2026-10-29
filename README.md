@@ -1,22 +1,11 @@
 <div align="center">
   <h1>Zhanlin Cui · Maverick</h1>
-  <h3>AI Engineering &amp; Systems Architecture</h3>
-  <p>AI &amp; Cloud Solution Architect @ ByteDance · Founder of EnterOS.ai</p>
+  <h3>AI &amp; Cloud Solution Architect</h3>
+  <p>ByteDance · Volcano Engine</p>
   <p>
     <a href="https://www.linkedin.com/in/maverickcui"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="Connect with Maverick on LinkedIn" width="44" height="44" /></a>
   </p>
-  <p>
-    <a href="mailto:cui_zhanlin121@163.com">Email</a> ·
-    <a href="https://github.com/EnterOS-AI/enter-os-core">EnterOS</a>
-  </p>
 </div>
-
-## Selected Projects
-
-- **[EnterOS](https://github.com/EnterOS-AI/enter-os-core)** · Founder & Project Lead · NVIDIA DGX Spark Hackathon Global Champion, 2026
-- **Synkora** · Project Owner · CICSIC Oceania Gold, 2026
-- **[DPU Network Security](https://github.com/MavCui/nvidia-dpu-cybersec-defense-system)** · Product Lead & Full-Stack Architect · NVIDIA DPU Hackathon Global Champion, 2025
-- **NeuroWear** · Project Owner · CICSIC Global Gold, 2025
 
 ## Experience
 
@@ -154,33 +143,70 @@ Enterprise application improvements on Azure and production web risk assessment.
 
 ## Certifications
 
+### Google Cloud & AWS
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/0bf82303-a281-44e8-9949-b8f3bdcd7652"><img src="assets/certifications/google-cloud-professional-cloud-architect.png" alt="Google Cloud Professional Cloud Architect" height="112" /></a><br />
+      <a href="https://www.credly.com/badges/0bf82303-a281-44e8-9949-b8f3bdcd7652"><strong>Google Cloud Professional Cloud Architect</strong></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://cloud.google.com/learn/certification/generative-ai-leader"><img src="assets/certifications/google-cloud-generative-ai-leader.png" alt="Google Cloud Generative AI Leader" height="112" /></a><br />
+      <a href="https://cloud.google.com/learn/certification/generative-ai-leader"><strong>Google Cloud Generative AI Leader</strong></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://aws.amazon.com/certification/certified-solutions-architect-professional/"><img src="assets/certifications/aws-solutions-architect-professional.png" alt="AWS Solutions Architect – Professional" height="112" /></a><br />
+      <a href="https://aws.amazon.com/certification/certified-solutions-architect-professional/"><strong>AWS Solutions Architect – Professional</strong></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional"><img src="assets/certifications/aws-generative-ai-developer-professional.png" alt="AWS Generative AI Developer – Professional" height="112" /></a><br />
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional"><strong>AWS Generative AI Developer – Professional</strong></a>
+    </td>
+  </tr>
+</table>
+
+### Microsoft Azure & AI
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"><img src="assets/certifications/microsoft-certified-expert.png" alt="Azure Solutions Architect Expert" height="112" /></a><br />
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"><strong>Azure Solutions Architect Expert</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/"><img src="assets/certifications/microsoft-certified-expert.png" alt="Agentic AI Business Solutions Architect" height="112" /></a><br />
+      <a href="https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/"><strong>Agentic AI Business Solutions Architect</strong></a>
+    </td>
+  </tr>
+</table>
+
+### Oracle
+
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Light.svg" alt="Google Cloud" height="44" /><br />
-      <strong>Google PCA</strong>
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD561B46B6BDA6ACFEE3F44D8D0CC3CA17CAF5CB6CFE302F0C1E78F8FED0C97B"><img src="assets/certifications/oracle-ai-vector-search-professional.png" alt="Oracle AI Vector Search Professional" height="112" /></a><br />
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD561B46B6BDA6ACFEE3F44D8D0CC3CA17CAF5CB6CFE302F0C1E78F8FED0C97B"><strong>Oracle AI Vector Search Professional</strong></a>
     </td>
     <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="44" /><br />
-      <strong>Microsoft AI Expert</strong>
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E1855F0901E4D914D7BECD9A6EF010C590A44DA3DD06287A897E07387959543"><img src="assets/certifications/oracle-oci-generative-ai-professional.png" alt="Oracle OCI Generative AI Professional" height="112" /></a><br />
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E1855F0901E4D914D7BECD9A6EF010C590A44DA3DD06287A897E07387959543"><strong>Oracle OCI Generative AI Professional</strong></a>
     </td>
     <td align="center" width="33%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" width="110" /><br />
-      <strong>Oracle OCP MySQL 8.0</strong>
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F530E94063215B5BAE0DC8B734FB252C72DAC4B9A8641E5509B89D8D4BA8C129"><img src="assets/certifications/oracle-mysql8-database-administrator-professional.png" alt="Oracle MySQL 8.0 Database Administrator Professional" height="112" /></a><br />
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F530E94063215B5BAE0DC8B734FB252C72DAC4B9A8641E5509B89D8D4BA8C129"><strong>Oracle MySQL 8.0 Database Administrator Professional</strong></a>
     </td>
   </tr>
+</table>
+
+### NVIDIA
+
+<table>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="Amazon Web Services" height="44" /><br />
-      <strong>AWS ML/AI Specialist</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Google" height="44" /><br />
-      <strong>Google AI Leadership Certificate</strong>
-    </td>
-    <td align="center">
-      <img src="https://mhfainternational.org/wp-content/plugins/mhfai-performance/assets/MHFA-International-Horizontal-Logo_sm.webp" alt="Mental Health First Aid International" height="44" /><br />
-      <strong>MHFA International</strong>
+    <td align="center" width="100%">
+      <a href="https://www.credly.com/badges/a4c75712-78bc-4398-ac6d-990e426ee520"><img src="assets/certifications/nvidia-certified-professional-gen-ai-llms.png" alt="NVIDIA Certified Professional: Gen AI LLMs" height="112" /></a><br />
+      <a href="https://www.credly.com/badges/a4c75712-78bc-4398-ac6d-990e426ee520"><strong>NVIDIA Certified Professional: Gen AI LLMs</strong></a>
     </td>
   </tr>
 </table>
