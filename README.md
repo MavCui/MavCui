@@ -143,73 +143,35 @@ Enterprise application improvements on Azure and production web risk assessment.
 
 ## Certifications
 
-### Google Cloud & AWS
+<p>
+  <a href="https://www.credly.com/badges/0bf82303-a281-44e8-9949-b8f3bdcd7652" title="Google Cloud Professional Cloud Architect"><img src="assets/certifications/google-cloud-professional-cloud-architect.png" alt="Google Cloud Professional Cloud Architect" height="64" /></a>
+  <a href="https://cloud.google.com/learn/certification/generative-ai-leader" title="Google Cloud Generative AI Leader"><img src="assets/certifications/google-cloud-generative-ai-leader.png" alt="Google Cloud Generative AI Leader" height="64" /></a>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-professional/" title="AWS Solutions Architect – Professional"><img src="assets/certifications/aws-solutions-architect-professional.png" alt="AWS Solutions Architect – Professional" height="64" /></a>
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional" title="AWS Generative AI Developer – Professional"><img src="assets/certifications/aws-generative-ai-developer-professional.png" alt="AWS Generative AI Developer – Professional" height="64" /></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/" title="Azure Solutions Architect Expert"><img src="assets/certifications/microsoft-certified-expert.png" alt="Azure Solutions Architect Expert" height="64" /></a>
+  <br />
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/" title="Agentic AI Business Solutions Architect"><img src="assets/certifications/microsoft-certified-expert.png" alt="Agentic AI Business Solutions Architect" height="64" /></a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD561B46B6BDA6ACFEE3F44D8D0CC3CA17CAF5CB6CFE302F0C1E78F8FED0C97B" title="Oracle AI Vector Search Professional"><img src="assets/certifications/oracle-ai-vector-search-professional.png" alt="Oracle AI Vector Search Professional" height="64" /></a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E1855F0901E4D914D7BECD9A6EF010C590A44DA3DD06287A897E07387959543" title="Oracle OCI Generative AI Professional"><img src="assets/certifications/oracle-oci-generative-ai-professional.png" alt="Oracle OCI Generative AI Professional" height="64" /></a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F530E94063215B5BAE0DC8B734FB252C72DAC4B9A8641E5509B89D8D4BA8C129" title="Oracle MySQL 8.0 Database Administrator Professional"><img src="assets/certifications/oracle-mysql8-database-administrator-professional.png" alt="Oracle MySQL 8.0 Database Administrator Professional" height="64" /></a>
+  <a href="https://www.credly.com/badges/a4c75712-78bc-4398-ac6d-990e426ee520" title="NVIDIA Certified Professional: Gen AI LLMs"><img src="assets/certifications/nvidia-certified-professional-gen-ai-llms.png" alt="NVIDIA Certified Professional: Gen AI LLMs" height="64" /></a>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://www.credly.com/badges/0bf82303-a281-44e8-9949-b8f3bdcd7652"><img src="assets/certifications/google-cloud-professional-cloud-architect.png" alt="Google Cloud Professional Cloud Architect" height="112" /></a><br />
-      <a href="https://www.credly.com/badges/0bf82303-a281-44e8-9949-b8f3bdcd7652"><strong>Google Cloud Professional Cloud Architect</strong></a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://cloud.google.com/learn/certification/generative-ai-leader"><img src="assets/certifications/google-cloud-generative-ai-leader.png" alt="Google Cloud Generative AI Leader" height="112" /></a><br />
-      <a href="https://cloud.google.com/learn/certification/generative-ai-leader"><strong>Google Cloud Generative AI Leader</strong></a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://aws.amazon.com/certification/certified-solutions-architect-professional/"><img src="assets/certifications/aws-solutions-architect-professional.png" alt="AWS Solutions Architect – Professional" height="112" /></a><br />
-      <a href="https://aws.amazon.com/certification/certified-solutions-architect-professional/"><strong>AWS Solutions Architect – Professional</strong></a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional"><img src="assets/certifications/aws-generative-ai-developer-professional.png" alt="AWS Generative AI Developer – Professional" height="112" /></a><br />
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional"><strong>AWS Generative AI Developer – Professional</strong></a>
-    </td>
-  </tr>
-</table>
+<details>
+  <summary>View credential details</summary>
 
-### Microsoft Azure & AI
+- [Google Cloud Professional Cloud Architect](https://www.credly.com/badges/0bf82303-a281-44e8-9949-b8f3bdcd7652)
+- [Google Cloud Generative AI Leader](https://cloud.google.com/learn/certification/generative-ai-leader)
+- [AWS Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+- [AWS Generative AI Developer – Professional](https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional)
+- [Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/)
+- [Agentic AI Business Solutions Architect](https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/)
+- [Oracle AI Vector Search Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD561B46B6BDA6ACFEE3F44D8D0CC3CA17CAF5CB6CFE302F0C1E78F8FED0C97B)
+- [Oracle OCI Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E1855F0901E4D914D7BECD9A6EF010C590A44DA3DD06287A897E07387959543)
+- [Oracle MySQL 8.0 Database Administrator Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F530E94063215B5BAE0DC8B734FB252C72DAC4B9A8641E5509B89D8D4BA8C129)
+- [NVIDIA Certified Professional: Gen AI LLMs](https://www.credly.com/badges/a4c75712-78bc-4398-ac6d-990e426ee520)
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"><img src="assets/certifications/microsoft-certified-expert.png" alt="Azure Solutions Architect Expert" height="112" /></a><br />
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"><strong>Azure Solutions Architect Expert</strong></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/"><img src="assets/certifications/microsoft-certified-expert.png" alt="Agentic AI Business Solutions Architect" height="112" /></a><br />
-      <a href="https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/"><strong>Agentic AI Business Solutions Architect</strong></a>
-    </td>
-  </tr>
-</table>
-
-### Oracle
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD561B46B6BDA6ACFEE3F44D8D0CC3CA17CAF5CB6CFE302F0C1E78F8FED0C97B"><img src="assets/certifications/oracle-ai-vector-search-professional.png" alt="Oracle AI Vector Search Professional" height="112" /></a><br />
-      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD561B46B6BDA6ACFEE3F44D8D0CC3CA17CAF5CB6CFE302F0C1E78F8FED0C97B"><strong>Oracle AI Vector Search Professional</strong></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E1855F0901E4D914D7BECD9A6EF010C590A44DA3DD06287A897E07387959543"><img src="assets/certifications/oracle-oci-generative-ai-professional.png" alt="Oracle OCI Generative AI Professional" height="112" /></a><br />
-      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E1855F0901E4D914D7BECD9A6EF010C590A44DA3DD06287A897E07387959543"><strong>Oracle OCI Generative AI Professional</strong></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F530E94063215B5BAE0DC8B734FB252C72DAC4B9A8641E5509B89D8D4BA8C129"><img src="assets/certifications/oracle-mysql8-database-administrator-professional.png" alt="Oracle MySQL 8.0 Database Administrator Professional" height="112" /></a><br />
-      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F530E94063215B5BAE0DC8B734FB252C72DAC4B9A8641E5509B89D8D4BA8C129"><strong>Oracle MySQL 8.0 Database Administrator Professional</strong></a>
-    </td>
-  </tr>
-</table>
-
-### NVIDIA
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <a href="https://www.credly.com/badges/a4c75712-78bc-4398-ac6d-990e426ee520"><img src="assets/certifications/nvidia-certified-professional-gen-ai-llms.png" alt="NVIDIA Certified Professional: Gen AI LLMs" height="112" /></a><br />
-      <a href="https://www.credly.com/badges/a4c75712-78bc-4398-ac6d-990e426ee520"><strong>NVIDIA Certified Professional: Gen AI LLMs</strong></a>
-    </td>
-  </tr>
-</table>
+</details>
 
 ## Education & Community
 
