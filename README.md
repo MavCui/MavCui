@@ -7,139 +7,157 @@
   </p>
 </div>
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/profile/hero-dark-static.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/hero-light-static.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.gif" />
+  <img src="assets/profile/hero-light.gif" alt="" width="960" />
+</picture>
+
+<p align="center"><a href="#experience">Experience</a> · <a href="#ai--engineering-stack">Engineering</a> · <a href="#certifications">Certifications</a></p>
+
 ## Experience
 
-**ByteDance · AI & Cloud Solution Architect** · Sep 2026–Present  
+**ByteDance · AI & Cloud Solution Architect** · <sub>Sep 2026–Present</sub>  
 AI and cloud solution architecture for growth-stage AI companies, connecting LLM, video, and world-model workloads with infrastructure and delivery requirements.
 
-**Baidu · AI Agent Architecture Engineer** · Apr–Sep 2026  
+**Baidu · AI Agent Architecture Engineer** · <sub>Apr–Sep 2026</sub>  
 Agent systems and overseas solution delivery for Medo.dev, spanning multi-model routing, tool orchestration, and multi-agent workflows.
 
-**Xiaomi · AI Innovation Product Manager Intern** · Dec 2025–Mar 2026  
+**Xiaomi · AI Innovation Product Manager Intern** · <sub>Dec 2025–Mar 2026</sub>  
 GUI agents, long-term memory, and proactive intelligence across device ecosystems, with scenario prototyping and multimodal evaluation.
 
-**TCL · AI Product Manager Intern, CTO Assistant** · Aug–Nov 2025  
+**TCL · AI Product Manager Intern, CTO Assistant** · <sub>Aug–Nov 2025</sub>  
 LLM personality evaluation and interaction design for Ai Me, covering proactive behavior, memory quality, safety guardrails, and regression testing.
 
-**China Merchants Bank · FinTech Product Manager Intern** · Dec 2024–Jan 2025  
+**China Merchants Bank · FinTech Product Manager Intern** · <sub>Dec 2024–Jan 2025</sub>  
 Research on AI in finance, blockchain payments, and digital banking.
 
-**SAS Institute · AI Credit & Finance Product Lead (Capstone)** · Aug–Nov 2024  
+**SAS Institute · AI Credit & Finance Product Lead (Capstone)** · <sub>Aug–Nov 2024</sub>  
 Credit risk platform design linking feature engineering, model inference, configurable decision rules, explainability, and audit trails.
 
-**China Mobile · AIGC Product Manager Intern & System Analyst** · Jun–Sep 2024  
+**China Mobile · AIGC Product Manager Intern & System Analyst** · <sub>Jun–Sep 2024</sub>  
 Image generation workflows with Stable Diffusion, custom LoRA training, and web/mobile interfaces.
 
-**BMW · IT Executive Project Manager Assistant** · Dec 2023–Mar 2024  
+**BMW · IT Executive Project Manager Assistant** · <sub>Dec 2023–Mar 2024</sub>  
 Enterprise application improvements on Azure and production web risk assessment.
 
 ## AI & Engineering Stack
 
 <table>
-  <thead>
-    <tr><th align="left">Engineering Area</th><th align="left">Technologies &amp; Ecosystem</th></tr>
-  </thead>
+  <thead><tr><th align="left">Engineering Area</th><th align="left">Technologies &amp; Ecosystem</th></tr></thead>
   <tbody>
     <tr>
       <td width="210" valign="middle"><strong>Agent Architecture &amp; Infrastructure</strong></td>
-      <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langgraph-color.svg" alt="LangGraph" title="LangGraph" width="36" height="36" />
+      <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langgraph-color.svg" alt="LangGraph" title="LangGraph" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langchain-color.svg" alt="LangChain" title="LangChain" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langchain-color.svg" alt="LangChain" title="LangChain" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/llamaindex-color.svg" alt="LlamaIndex" title="LlamaIndex" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/llamaindex-color.svg" alt="LlamaIndex" title="LlamaIndex" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/mcp.svg" alt="Model Context Protocol" title="Model Context Protocol" width="36" height="36" /><br /><sub>LangGraph · LangChain · LlamaIndex · MCP · A2A</sub></td>
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/mcp.svg" alt="Model Context Protocol" title="Model Context Protocol" width="32" height="32" /><br /><sub>LangGraph · LangChain · LlamaIndex · MCP · A2A</sub></td>
     </tr>
     <tr>
       <td width="210" valign="middle"><strong>LLM Engineering &amp; Serving</strong></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" alt="PyTorch" title="PyTorch" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" alt="Hugging Face" title="Hugging Face" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/vllm-color.svg" alt="vLLM" title="vLLM" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/vllm-color.svg" alt="vLLM" title="vLLM" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/nvidia-color.svg" alt="NVIDIA" title="NVIDIA" width="36" height="36" /><br /><sub>PyTorch · Hugging Face · vLLM · SGLang · LiteLLM · TensorRT-LLM</sub></td>
-    </tr>
-    <tr>
-      <td width="210" valign="middle"><strong>Post-Training &amp; Agent RL</strong></td>
-      <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" alt="Hugging Face Transformers, PEFT and TRL" title="Hugging Face Transformers, PEFT and TRL" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /><br /><sub>Transformers · PEFT · TRL · verl · Ray</sub></td>
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/nvidia-color.svg" alt="NVIDIA" title="NVIDIA" width="32" height="32" /><br /><sub>PyTorch · Hugging Face · vLLM · SGLang · LiteLLM · TensorRT-LLM</sub></td>
     </tr>
     <tr>
       <td width="210" valign="middle"><strong>Retrieval, Memory &amp; Evaluation</strong></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Light.svg" alt="Redis" title="Redis" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Light.svg" alt="Redis" title="Redis" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Elasticsearch-Light.svg" alt="Elasticsearch" title="Elasticsearch" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Elasticsearch-Light.svg" alt="Elasticsearch" title="Elasticsearch" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langfuse-color.svg" alt="Langfuse" title="Langfuse" width="36" height="36" /><br /><sub>PostgreSQL · pgvector · Redis · Qdrant · Langfuse · Ragas</sub></td>
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langfuse-color.svg" alt="Langfuse" title="Langfuse" width="32" height="32" /><br /><sub>PostgreSQL · pgvector · Redis · Qdrant · Langfuse · Ragas</sub></td>
     </tr>
     <tr>
       <td width="210" valign="middle"><strong>Cloud-Native AI Infrastructure</strong></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="AWS" title="AWS" width="36" height="36" />
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="AWS" title="AWS" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Light.svg" alt="Azure" title="Azure" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Light.svg" alt="Azure" title="Azure" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Light.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Light.svg" alt="Google Cloud" title="Google Cloud" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" title="Docker" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" title="Docker" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/volcengine-color.svg" alt="Volcano Engine" title="Volcano Engine" width="36" height="36" /><br /><sub>AWS · Azure · Google Cloud · Volcano Engine · Docker · Kubernetes</sub></td>
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/volcengine-color.svg" alt="Volcano Engine" title="Volcano Engine" width="32" height="32" /><br /><sub>AWS · Azure · Google Cloud · Volcano Engine · Docker · Kubernetes</sub></td>
     </tr>
     <tr>
       <td width="210" valign="middle"><strong>Full-Stack Engineering</strong></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python" title="Python" width="36" height="36" />
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="Python" title="Python" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" alt="Go" title="Go" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" alt="Go" title="Go" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" alt="React" title="React" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" alt="React" title="React" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" alt="Next.js" title="Next.js" width="36" height="36" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" alt="Next.js" title="Next.js" width="32" height="32" />
         &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" alt="FastAPI" title="FastAPI" width="36" height="36" /><br /><sub>Python · TypeScript · Go · React · Next.js · FastAPI</sub></td>
-    </tr>
-    <tr>
-      <td width="210" valign="middle"><strong>iOS &amp; On-Device Intelligence</strong></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" alt="Swift" title="Swift" width="36" height="36" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" title="Xcode" width="36" height="36" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple platform development" title="Apple platform development" width="36" height="36" /><br /><sub>Swift · SwiftUI · Xcode · Core ML · Foundation Models · MLX</sub></td>
-    </tr>
-    <tr>
-      <td width="210" valign="middle"><strong>Data &amp; Developer Tools</strong></td>
-      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Light.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" alt="Linux" title="Linux" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" alt="Figma" title="Figma" width="36" height="36" /><br /><sub>MySQL · Git · GitHub Actions · Linux · Figma</sub></td>
-    </tr>
-    <tr>
-      <td width="210" valign="middle"><strong>Models &amp; APIs</strong></td>
-      <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg" alt="OpenAI" title="OpenAI" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg" alt="Claude" title="Claude" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg" alt="Gemini" title="Gemini" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/doubao-color.svg" alt="Doubao" title="Doubao" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/deepseek-color.svg" alt="DeepSeek" title="DeepSeek" width="36" height="36" />
-        &nbsp;
-        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/qwen-color.svg" alt="Qwen" title="Qwen" width="36" height="36" /><br /><sub>OpenAI · Claude · Gemini · Doubao · DeepSeek · Qwen</sub></td>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" alt="FastAPI" title="FastAPI" width="32" height="32" /><br /><sub>Python · TypeScript · Go · React · Next.js · FastAPI</sub></td>
     </tr>
   </tbody>
 </table>
+
+<details>
+  <summary>More engineering tools</summary>
+
+<table>
+  <thead><tr><th align="left">Engineering Area</th><th align="left">Technologies &amp; Ecosystem</th></tr></thead>
+  <tbody>
+    <tr>
+      <td width="210" valign="middle"><strong>Post-Training &amp; Agent RL</strong></td>
+      <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/huggingface-color.svg" alt="Hugging Face Transformers, PEFT and TRL" title="Hugging Face Transformers, PEFT and TRL" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Light.svg" alt="PyTorch" title="PyTorch" width="32" height="32" /><br /><sub>Transformers · PEFT · TRL · verl · Ray</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>iOS &amp; On-Device Intelligence</strong></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" alt="Swift" title="Swift" width="32" height="32" />
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" title="Xcode" width="32" height="32" />
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple platform development" title="Apple platform development" width="32" height="32" /><br /><sub>Swift · SwiftUI · Xcode · Core ML · Foundation Models · MLX</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>Data &amp; Developer Tools</strong></td>
+      <td><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="MySQL" title="MySQL" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Light.svg" alt="GitHub Actions" title="GitHub Actions" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" alt="Linux" title="Linux" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" alt="Figma" title="Figma" width="32" height="32" /><br /><sub>MySQL · Git · GitHub Actions · Linux · Figma</sub></td>
+    </tr>
+    <tr>
+      <td width="210" valign="middle"><strong>Models &amp; APIs</strong></td>
+      <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg" alt="OpenAI" title="OpenAI" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg" alt="Claude" title="Claude" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg" alt="Gemini" title="Gemini" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/doubao-color.svg" alt="Doubao" title="Doubao" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/deepseek-color.svg" alt="DeepSeek" title="DeepSeek" width="32" height="32" />
+        &nbsp;
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/qwen-color.svg" alt="Qwen" title="Qwen" width="32" height="32" /><br /><sub>OpenAI · Claude · Gemini · Doubao · DeepSeek · Qwen</sub></td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
 
 ## Certifications
 
