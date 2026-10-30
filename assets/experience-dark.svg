@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="830" viewBox="0 0 1100 830" role="img" aria-labelledby="ttl">
+  <title id="ttl">Experience — ByteDance, Baidu, Xiaomi, TCL, SAS, and earlier roles</title>
+  <rect width="1100" height="830" fill="#0C1512"/>
+
+  <text x="56" y="44" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3.2" fill="#85958D">EXPERIENCE</text>
+  <text x="1044" y="44" text-anchor="end" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.6" fill="#85958D">2023 — NOW</text>
+  <line x1="56" y1="64" x2="1044" y2="64" stroke="#22332C"/>
+
+  <!-- 01 -->
+  <text x="56" y="112" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1" fill="#6FD6A8">01</text>
+  <text x="56" y="132" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#85958D">2026.09 — NOW</text>
+  <text x="230" y="114" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="27" fill="#ECE7DD">ByteDance · Volcano Engine</text>
+  <text x="230" y="134" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.8" fill="#6FD6A8">AI SOLUTION ARCHITECT</text>
+  <text x="230" y="162" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#B4AFA4">Solution architecture for growth-stage AI companies: LLM, video and world-model workloads.</text>
+  <line x1="56" y1="188" x2="1044" y2="188" stroke="#1A2A24"/>
+
+  <!-- 02 -->
+  <text x="56" y="212" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1" fill="#6FD6A8">02</text>
+  <text x="56" y="232" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#85958D">2026.04 — 2026.09</text>
+  <text x="230" y="214" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="27" fill="#ECE7DD">Baidu · Overseas Innovation</text>
+  <text x="230" y="234" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.8" fill="#6FD6A8">AI/ML SYSTEMS ARCHITECT · MEDO.DEV</text>
+  <text x="230" y="262" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#B4AFA4">Founding member of Medo's overseas push: four regions in three months, agent workflows end to end.</text>
+  <line x1="56" y1="288" x2="1044" y2="288" stroke="#1A2A24"/>
+
+  <!-- 03 -->
+  <text x="56" y="312" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1" fill="#6FD6A8">03</text>
+  <text x="56" y="332" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#85958D">2025.11 — 2026.03</text>
+  <text x="230" y="314" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="27" fill="#ECE7DD">Xiaomi · Technology Committee</text>
+  <text x="230" y="334" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.8" fill="#6FD6A8">AI ENGINEER, PRODUCT ARCHITECT</text>
+  <text x="230" y="362" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#B4AFA4">China's first AIOS to schedule phone, AIoT, car and PC as one surface. GUI agents, memory.</text>
+  <line x1="56" y1="388" x2="1044" y2="388" stroke="#1A2A24"/>
+
+  <!-- 04 -->
+  <text x="56" y="412" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1" fill="#6FD6A8">04</text>
+  <text x="56" y="432" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#85958D">2025.07 — 2025.11</text>
+  <text x="230" y="414" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="27" fill="#ECE7DD">TCL · Honghu AI Lab</text>
+  <text x="230" y="434" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.8" fill="#6FD6A8">APPLIED AI ENGINEER · AIME ROBOT OS</text>
+  <text x="230" y="462" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#B4AFA4">Nine-dimension experience framework and automated personality evaluation for a companion robot.</text>
+  <line x1="56" y1="488" x2="1044" y2="488" stroke="#1A2A24"/>
+
+  <!-- 05 -->
+  <text x="56" y="512" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1" fill="#6FD6A8">05</text>
+  <text x="56" y="532" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" letter-spacing="0.8" fill="#85958D">2025.02 — 2025.07</text>
+  <text x="230" y="514" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="27" fill="#ECE7DD">SAS Institute · Sydney</text>
+  <text x="230" y="534" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="1.8" fill="#6FD6A8">AI PRODUCT OWNER · AMRSS</text>
+  <text x="230" y="562" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#B4AFA4">Australia's first AI credit-risk platform — feature engineering to decision policy, five banks.</text>
+  <line x1="56" y1="588" x2="1044" y2="588" stroke="#22332C"/>
+
+  <!-- earlier -->
+  <text x="56" y="628" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2.6" fill="#85958D">EARLIER</text>
+
+  <text x="56" y="668" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#85958D">2024</text>
+  <text x="150" y="669" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="17" fill="#ECE7DD">China Merchants Group</text>
+  <text x="560" y="669" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#85958D">Data Scientist</text>
+
+  <text x="56" y="702" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#85958D">2024</text>
+  <text x="150" y="703" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="17" fill="#ECE7DD">China Mobile · R&amp;D</text>
+  <text x="560" y="703" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#85958D">AIGC imaging platform, Stable Diffusion &amp; LoRA</text>
+
+  <text x="56" y="736" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#85958D">2024</text>
+  <text x="150" y="737" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="17" fill="#ECE7DD">Deloitte · Hong Kong</text>
+  <text x="560" y="737" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#85958D">Technology consulting</text>
+
+  <text x="56" y="770" font-family="'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#85958D">2023–24</text>
+  <text x="150" y="771" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="17" fill="#ECE7DD">BMW China</text>
+  <text x="560" y="771" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#85958D">IT PMO — next-generation cockpit, iX3 &amp; 5 Series</text>
+
+  <line x1="56" y1="802" x2="1044" y2="802" stroke="#22332C"/>
+</svg>
