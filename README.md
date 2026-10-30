@@ -1,46 +1,66 @@
-<div align="center">
-  <h1>Zhanlin Cui · Maverick</h1>
-  <h3>AI &amp; Cloud Solution Architect</h3>
-  <p>ByteDance · Volcano Engine</p>
-  <p>
-    <a href="https://www.linkedin.com/in/maverickcui"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="Connect with Maverick on LinkedIn" width="44" height="44" /></a>
-  </p>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img src="./assets/hero-light.svg" alt="Maverick Cui — AI Solution Architect at ByteDance" width="100%">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/profile/hero-dark-static.png" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/hero-light-static.png" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.gif" />
-  <img src="assets/profile/hero-light.gif" alt="" width="960" />
-</picture>
+**AI Solution Architect at ByteDance.** Founder before that.
 
-<p align="center"><a href="#experience">Experience</a> · <a href="#ai--engineering-stack">Engineering</a> · <a href="#certifications">Certifications</a></p>
+For four years I've worked on the unglamorous half of AI — agent runtimes, device memory, risk decisioning — at Baidu, Xiaomi and SAS. My own ventures have gone through Antler and other top-tier accelerators.
+
+The conclusion hasn't changed: the model is never the hard part. Everything around it is. That's what I build now for growth-stage AI companies — LLM, video and world-model workloads, from demo to deployed.
+
+---
 
 ## Experience
 
-**ByteDance · AI & Cloud Solution Architect** · <sub>Sep 2026–Present</sub>  
-AI and cloud solution architecture for growth-stage AI companies, connecting LLM, video, and world-model workloads with infrastructure and delivery requirements.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg">
+    <img src="./assets/experience-light.svg" alt="Eight roles from 2023 to now: ByteDance, Baidu, Xiaomi, TCL, SAS, and earlier work at China Merchants Group, China Mobile, Deloitte and BMW" width="100%">
+  </picture>
+</p>
 
-**Baidu · AI Agent Architecture Engineer** · <sub>Apr–Sep 2026</sub>  
-Agent systems and overseas solution delivery for Medo.dev, spanning multi-model routing, tool orchestration, and multi-agent workflows.
+<details>
+<summary><b>Plain text version</b></summary>
+<br/>
 
-**Xiaomi · AI Innovation Product Manager Intern** · <sub>Dec 2025–Mar 2026</sub>  
-GUI agents, long-term memory, and proactive intelligence across device ecosystems, with scenario prototyping and multimodal evaluation.
+**ByteDance · Volcano Engine** — AI Solution Architect · <sub>2026.09 – now</sub>
+Solution architecture for growth-stage AI companies, connecting LLM, video and world-model workloads with infrastructure and delivery requirements.
 
-**TCL · AI Product Manager Intern, CTO Assistant** · <sub>Aug–Nov 2025</sub>  
-LLM personality evaluation and interaction design for Ai Me, covering proactive behavior, memory quality, safety guardrails, and regression testing.
+**Baidu · Overseas Innovation** — AI/ML Systems Architect, Medo.dev · <sub>2026.04 – 2026.09</sub>
+Founding member of the overseas team; four regions in three months. Multi-model routing, tool orchestration, multi-agent workflows, end-to-end solution delivery.
 
-**China Merchants Bank · FinTech Product Manager Intern** · <sub>Dec 2024–Jan 2025</sub>  
-Research on AI in finance, blockchain payments, and digital banking.
+**Xiaomi · Technology Committee** — AI Engineer, Product Architect · <sub>2025.11 – 2026.03</sub>
+GUI agents, super-Xiaoai memory and proactive intelligence, across the first AIOS in China to schedule phone, AIoT, car and PC as one surface.
 
-**SAS Institute · AI Credit & Finance Product Lead (Capstone)** · <sub>Aug–Nov 2024</sub>  
-Credit risk platform design linking feature engineering, model inference, configurable decision rules, explainability, and audit trails.
+**TCL · Honghu AI Lab** — Applied AI Engineer, AiMe Robot OS · <sub>2025.07 – 2025.11</sub>
+Personality-layer evaluation and interaction strategy for a companion robot: a nine-dimension experience framework plus automated LLM personality evaluation.
 
-**China Mobile · AIGC Product Manager Intern & System Analyst** · <sub>Jun–Sep 2024</sub>  
-Image generation workflows with Stable Diffusion, custom LoRA training, and web/mobile interfaces.
+**SAS Institute · Sydney** — AI Product Owner, AMRSS · <sub>2025.02 – 2025.07</sub>
+Australia's first AI credit-risk platform — feature engineering, model inference, decision policy and audit trails in one configurable chain. Deployed at five banks.
 
-**BMW · IT Executive Project Manager Assistant** · <sub>Dec 2023–Mar 2024</sub>  
-Enterprise application improvements on Azure and production web risk assessment.
+**China Merchants Group** — Data Scientist · <sub>2024</sub>
+
+**China Mobile R&D** — AIGC imaging platform, Stable Diffusion and LoRA training · <sub>2024</sub>
+
+**Deloitte Hong Kong** — Technology consulting · <sub>2024</sub>
+
+**BMW China** — IT PMO, next-generation iX3 and 5 Series cockpit · <sub>2023 – 2024</sub>
+
+</details>
+
+## Recognition
+
+**NVIDIA Hackathon** · three championships across two years · project owner<br/>
+<sub>风御 — edge AI network security on BlueField DPUs, closing the loop from detection to autonomous defense. And an AI-native org platform for overseas enterprises: control plane, persistent workspace, RSI self-evolution.</sub>
+
+**China International Innovation Competition 2025** · national gold · project owner<br/>
+<sub>Neurowear (patent) — on-device multimodal brain-health management, taking it from a single hospital check to continuous daily observation. DenseFormer-MoE on wearable signals, with long-horizon trend tracking and expert review.</sub>
+
+**China International Innovation Competition 2026** · Oceania champion · project owner<br/>
+<sub>Synkora (patent) — the first compute–energy co-optimization model for AI factories. When to run a job, which site, which GPU, against power prices and delivery deadlines.</sub>
 
 ## AI & Engineering Stack
 
@@ -161,18 +181,20 @@ Enterprise application improvements on Azure and production web risk assessment.
 
 ## Certifications
 
-<p>
-  <a href="https://www.credly.com/badges/0bf82303-a281-44e8-9949-b8f3bdcd7652" title="Google Cloud Professional Cloud Architect"><img src="assets/certifications/google-cloud-professional-cloud-architect.png" alt="Google Cloud Professional Cloud Architect" height="64" /></a>
-  <a href="https://cloud.google.com/learn/certification/generative-ai-leader" title="Google Cloud Generative AI Leader"><img src="assets/certifications/google-cloud-generative-ai-leader.png" alt="Google Cloud Generative AI Leader" height="64" /></a>
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-professional/" title="AWS Solutions Architect – Professional"><img src="assets/certifications/aws-solutions-architect-professional.png" alt="AWS Solutions Architect – Professional" height="64" /></a>
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional" title="AWS Generative AI Developer – Professional"><img src="assets/certifications/aws-generative-ai-developer-professional.png" alt="AWS Generative AI Developer – Professional" height="64" /></a>
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/" title="Azure Solutions Architect Expert"><img src="assets/certifications/microsoft-certified-expert.png" alt="Azure Solutions Architect Expert" height="64" /></a>
-  <br />
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/" title="Agentic AI Business Solutions Architect"><img src="assets/certifications/microsoft-certified-expert.png" alt="Agentic AI Business Solutions Architect" height="64" /></a>
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD561B46B6BDA6ACFEE3F44D8D0CC3CA17CAF5CB6CFE302F0C1E78F8FED0C97B" title="Oracle AI Vector Search Professional"><img src="assets/certifications/oracle-ai-vector-search-professional.png" alt="Oracle AI Vector Search Professional" height="64" /></a>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E1855F0901E4D914D7BECD9A6EF010C590A44DA3DD06287A897E07387959543" title="Oracle OCI Generative AI Professional"><img src="assets/certifications/oracle-oci-generative-ai-professional.png" alt="Oracle OCI Generative AI Professional" height="64" /></a>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F530E94063215B5BAE0DC8B734FB252C72DAC4B9A8641E5509B89D8D4BA8C129" title="Oracle MySQL 8.0 Database Administrator Professional"><img src="assets/certifications/oracle-mysql8-database-administrator-professional.png" alt="Oracle MySQL 8.0 Database Administrator Professional" height="64" /></a>
-  <a href="https://www.credly.com/badges/a4c75712-78bc-4398-ac6d-990e426ee520" title="NVIDIA Certified Professional: Gen AI LLMs"><img src="assets/certifications/nvidia-certified-professional-gen-ai-llms.png" alt="NVIDIA Certified Professional: Gen AI LLMs" height="64" /></a>
+<p align="center"><sub>42+ CERTIFICATIONS &#183; 10 CREDENTIALS SHOWN</sub></p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/0bf82303-a281-44e8-9949-b8f3bdcd7652" title="Google Cloud Professional Cloud Architect"><img src="assets/certifications/google-cloud-professional-cloud-architect.png" alt="Google Cloud Professional Cloud Architect" height="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.google.com/learn/certification/generative-ai-leader" title="Google Cloud Generative AI Leader"><img src="assets/certifications/google-cloud-generative-ai-leader.png" alt="Google Cloud Generative AI Leader" height="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-professional/" title="AWS Solutions Architect – Professional"><img src="assets/certifications/aws-solutions-architect-professional.png" alt="AWS Solutions Architect – Professional" height="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-generative-ai-developer-professional" title="AWS Generative AI Developer – Professional"><img src="assets/certifications/aws-generative-ai-developer-professional.png" alt="AWS Generative AI Developer – Professional" height="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/" title="Azure Solutions Architect Expert"><img src="assets/certifications/microsoft-certified-expert.png" alt="Azure Solutions Architect Expert" height="56" /></a>
+  <br /><br />
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-business-solutions-architect/" title="Agentic AI Business Solutions Architect"><img src="assets/certifications/microsoft-certified-expert.png" alt="Agentic AI Business Solutions Architect" height="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CD561B46B6BDA6ACFEE3F44D8D0CC3CA17CAF5CB6CFE302F0C1E78F8FED0C97B" title="Oracle AI Vector Search Professional"><img src="assets/certifications/oracle-ai-vector-search-professional.png" alt="Oracle AI Vector Search Professional" height="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5E1855F0901E4D914D7BECD9A6EF010C590A44DA3DD06287A897E07387959543" title="Oracle OCI Generative AI Professional"><img src="assets/certifications/oracle-oci-generative-ai-professional.png" alt="Oracle OCI Generative AI Professional" height="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F530E94063215B5BAE0DC8B734FB252C72DAC4B9A8641E5509B89D8D4BA8C129" title="Oracle MySQL 8.0 Database Administrator Professional"><img src="assets/certifications/oracle-mysql8-database-administrator-professional.png" alt="Oracle MySQL 8.0 Database Administrator Professional" height="56" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/a4c75712-78bc-4398-ac6d-990e426ee520" title="NVIDIA Certified Professional: Gen AI LLMs"><img src="assets/certifications/nvidia-certified-professional-gen-ai-llms.png" alt="NVIDIA Certified Professional: Gen AI LLMs" height="56" /></a>
 </p>
 
 <details>
@@ -193,7 +215,14 @@ Enterprise application improvements on Azure and production web risk assessment.
 
 ## Education & Community
 
-**UNSW Sydney** · Bachelor of Computer Science · 2023–2026  
+**UNSW Sydney** · Bachelor of Computer Science · <sub>2023 – 2026</sub> · Excellence Scholarship<br/>
 President, Google Developer Group UNSW · Founder & Executive President, UCS
 
-Open to collaboration on agent infrastructure, AI systems architecture, and compute–energy optimization.
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maverickcui"><img alt="LinkedIn" src="https://img.shields.io/badge/-maverickcui-1F5C3A?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/MavCui"><img alt="GitHub" src="https://img.shields.io/badge/-MavCui-1F5C3A?style=flat-square&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center"><sub>WeChat · <code>-MrCui-</code> — bring a question, or just come say hi.</sub></p>
